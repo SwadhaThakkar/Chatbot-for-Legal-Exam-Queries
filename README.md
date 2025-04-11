@@ -23,8 +23,7 @@ Design a chatbot to answer CLAT-related queries by matching user questions with 
 
 ## ⚙️ Setup Instructions
 
-1. Clone the repository or download and unzip the folder:
+1. Clone the repository or unzip the folder.
+2. Install dependencies (preferably in a virtual environment):
    ```bash
-   git clone https://github.com/yourusername/clat-chatbot.git
-   cd clat-chatbot
-
+   pip install -r requirements.txt
