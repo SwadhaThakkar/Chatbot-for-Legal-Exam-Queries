@@ -14,5 +14,3 @@ This is an NLP-powered chatbot designed to answer frequently asked questions abo
 
 ---
 
-## 🗂️ Project Structure
-
