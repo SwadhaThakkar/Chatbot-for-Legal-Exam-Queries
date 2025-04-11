@@ -10,6 +10,17 @@ Design a chatbot to answer CLAT-related queries by matching user questions with 
 
 ---
 
+
+## 🔍 Features
+
+- Fast semantic search using Sentence Transformers from Hugging Face (all-MiniLM-L6-v2)
+- Paraphrasing with Parrot from Hugging Face to expand the dataset
+- Web scraping fallback from official & trusted CLAT sites using BeautifulSoup
+- Cosine similarity-based matching using sentence-transformers.util
+- Fully implemented in a clean and modular Jupyter Notebook
+
+---
+
 ## 📁 Project Structure
 
 - `clat_chatbot_faq.ipynb` : Main notebook with data loading, web scraping, embedding generation, and chatbot logic.
