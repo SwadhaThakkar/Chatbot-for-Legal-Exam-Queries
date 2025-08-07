@@ -1,0 +1,13 @@
+Flask
+pandas
+torch
+sentence-transformers
+beautifulsoup4
+requests
+parrot
+llama-cpp-python
+scikit-learn
+jinja2
+numpy
+gunicorn
+faiss-cpu
