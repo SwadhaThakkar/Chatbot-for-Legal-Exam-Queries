@@ -1,6 +1,0 @@
-pandas
-torch
-sentence-transformers
-beautifulsoup4
-requests
-parrot==1.0.3
